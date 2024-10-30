@@ -16,7 +16,7 @@ Welcome to the first version of our Employee Shift Management Application, a com
 
 ### Development Highlights
 
-**Technology Stack:** Developed using Spring Boot for the backend, leveraging Java and C# to create a robust, real-time system.
+**Technology Stack:** Developed using Spring Boot for the backend, leveraging Java to create a robust, real-time system.
 
 **Microservices Architecture:** Built on a microservices framework in Java, ensuring scalability and ease of maintenance.
 
