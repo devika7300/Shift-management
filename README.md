@@ -23,7 +23,7 @@ Welcome to the first version of our Employee Shift Management Application, a com
 **REST API Integration:** Utilizes REST APIs for seamless data handling and inter-service communication, enhancing system interoperability.
 
 **Agile Methodology:** Engineered with Agile methodologies, incorporating sprints and Kanban boards to ensure a flexible, iterative development process.
-Rationale
+
 
 The Employee Shift Management Application addresses common issues associated with manual scheduling processes, such as time consumption, proneness to errors, and the resulting staff imbalances. By providing a centralized platform for managing employee schedules, our application significantly reduces these challenges, offering a streamlined solution that meets the specific needs of Dome management teams.
 
